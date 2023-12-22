@@ -11,9 +11,9 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* Cards */
 
-#Mis-trabajos .image-top {
+#Lugares .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
